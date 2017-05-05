@@ -1,5 +1,7 @@
 # Front End Development Notes
 
+![rocket](images/Frontend-Developer.png)<br />
+
 Some notes about front end development in case I forget.
 
 ## Creating an ES6 project
